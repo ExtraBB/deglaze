@@ -1,16 +1,16 @@
 - **Name**: Turbinado sugar
 - **Other Names**: 터비나도 설탕
-- **Type**: Sweetener / Sugar
+- **Type**: Sweetener
 
 ## Description
 
-Turbinado sugar is a minimally processed sugar with large, golden crystals and a mild molasses flavor. It is used in Korean cuisine for its subtle sweetness and texture.
+Turbinado sugar is a minimally processed cane sugar with large, golden crystals and a mild molasses flavor. It is commonly used as a sweetener in beverages, baking, and as a topping for cereals and desserts.
 
 ## How to use
 
-- Used in baking and desserts
-- Sprinkled on cereals and fruits
-- Added to marinades and sauces
+- Used as a sweetener in beverages
+- Sprinkled on baked goods
+- Added to cereals and desserts
 
 ## Substitutions
 

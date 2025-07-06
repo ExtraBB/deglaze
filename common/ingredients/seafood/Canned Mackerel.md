@@ -1,15 +1,15 @@
-- **Name**: Canned mackerel (Godeungeo-tongjorim)
+- **Name**: Canned mackerel
 - **Other Names**: 고등어통조림
 - **Type**: Seafood / Fish / Canned
 
 ## Description
 
-Canned mackerel is preserved mackerel fish, often used in Korean stews and braises for its rich flavor and convenience.
+Canned mackerel is preserved mackerel fish, valued for its rich flavor and convenience. It is used in stews and braises.
 
 ## How to use
 
-- Added to kimchi jjigae (kimchi stew)
-- Used in braised dishes (jorim)
+- Added to stews
+- Used in braised dishes
 - Mixed into rice or noodles
 
 ## Substitutions

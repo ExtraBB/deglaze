@@ -1,10 +1,10 @@
-- **Name**: Toasted sesame seeds (Bokkeun-kkae)
+- **Name**: Toasted sesame seeds
 - **Other Names**: 볶은깨
 - **Type**: Seed / Nut
 
 ## Description
 
-Toasted sesame seeds are roasted seeds with a rich, nutty flavor and aroma. They are used in Korean cuisine for garnishing, making pastes, and as an ingredient in sauces and desserts.
+Toasted sesame seeds are roasted seeds with a rich, nutty flavor and aroma. They are commonly used for garnishing, making pastes, and as an ingredient in sauces and desserts.
 
 ## How to use
 

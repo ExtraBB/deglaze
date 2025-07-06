@@ -1,14 +1,14 @@
-- **Name**: Abalone (Jeonbok)
+- **Name**: Abalone
 - **Other Names**: 전복
 - **Type**: Seafood / Mollusk
 
 ## Description
 
-Abalone is a prized shellfish with a firm, chewy texture and a delicate, sweet flavor. It is considered a delicacy in Korean cuisine and is used in soups, porridges, and grilled dishes.
+Abalone is a prized shellfish with a firm, chewy texture and a delicate, sweet flavor. It is considered a delicacy and is used in soups, porridges, and grilled dishes.
 
 ## How to use
 
-- Used in abalone porridge (jeonbokjuk)
+- Used in abalone porridge
 - Grilled or steamed as a delicacy
 - Added to soups and stews
 

@@ -1,10 +1,10 @@
-- **Name**: Corn syrup (Mul-yeot)
-- **Other Names**: 물엿
+- **Name**: Rice syrup
+- **Other Names**: 쌀조청
 - **Type**: Sweetener / Syrup
 
 ## Description
 
-Mul-yeot is a clear, viscous syrup made from corn starch. It is used in Korean cuisine to add sweetness and shine to dishes, and to help bind ingredients.
+Rice syrup is a thick, sweet syrup made from rice starch. It is used to add sweetness and shine to dishes, and to help bind ingredients.
 
 ## How to use
 
@@ -14,7 +14,7 @@ Mul-yeot is a clear, viscous syrup made from corn starch. It is used in Korean c
 
 ## Substitutions
 
-If unavailable, use rice syrup, honey, or light corn syrup as alternatives.
+If unavailable, use corn syrup, honey, or malt syrup as alternatives.
 
 ## Storage
 

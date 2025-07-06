@@ -4,7 +4,7 @@
 
 ## Description
 
-Turnip is a round, white root vegetable with a mild, slightly peppery flavor. It is used in Korean cuisine for soups, stews, and pickles.
+Turnip is a round, white root vegetable with a mild, slightly peppery flavor. It is commonly used in soups, stews, and pickles.
 
 ## How to use
 

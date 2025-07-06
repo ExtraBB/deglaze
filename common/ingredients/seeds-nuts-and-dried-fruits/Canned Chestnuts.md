@@ -4,11 +4,11 @@
 
 ## Description
 
-Canned chestnuts are peeled, cooked chestnuts preserved in syrup or water. They are used in Korean desserts, rice dishes, and as a snack.
+Canned chestnuts are peeled, cooked chestnuts preserved in syrup or water. They are commonly used in desserts, rice dishes, and as a snack.
 
 ## How to use
 
-- Added to rice (bam-bap)
+- Added to rice
 - Used in desserts and sweet soups
 - Eaten as a snack
 

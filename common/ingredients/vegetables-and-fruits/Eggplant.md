@@ -4,11 +4,11 @@
 
 ## Description
 
-Eggplant is a tender, purple vegetable with a mild, slightly sweet flavor. It is used in Korean cuisine for stir-fries, stews, and side dishes.
+Eggplant is a tender, purple vegetable with a mild, slightly sweet flavor. It is commonly used in stir-fries, stews, and side dishes.
 
 ## How to use
 
-- Stir-fried with seasonings (gaji-bokkeum)
+- Stir-fried with seasonings
 - Steamed or braised as a side dish
 - Added to stews and soups
 

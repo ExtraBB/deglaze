@@ -1,10 +1,10 @@
-- **Name**: Raw sesame seeds (Cham-kkae)
+- **Name**: Raw sesame seeds
 - **Other Names**: 참깨
 - **Type**: Seed / Nut
 
 ## Description
 
-Raw sesame seeds are small, oval seeds with a mild, nutty flavor. They are used in Korean cuisine for garnishing, making pastes, and as an ingredient in sauces and desserts.
+Raw sesame seeds are small, oval seeds with a mild, nutty flavor. They are commonly used for garnishing, making pastes, and as an ingredient in sauces and desserts.
 
 ## How to use
 

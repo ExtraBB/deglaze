@@ -4,7 +4,7 @@
 
 ## Description
 
-Lima beans are flat, creamy beans used in Korean cuisine for their mild flavor and smooth texture. They are often added to rice blends and stews.
+Lima beans are flat, creamy beans valued for their mild flavor and smooth texture. They are often added to rice blends and stews.
 
 ## How to use
 

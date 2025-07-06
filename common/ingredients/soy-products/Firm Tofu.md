@@ -5,11 +5,11 @@
 ---
 
 ## Description
-Firm tofu is a dense, pressed form of tofu made from coagulated soy milk. It holds its shape well and is commonly used in Korean cuisine for stir-fries, stews, grilling, and pan-frying. Its texture is chewy and it absorbs flavors from sauces and broths.
+Firm tofu is a dense, pressed form of tofu made from coagulated soy milk. It holds its shape well and is commonly used for stir-fries, stews, grilling, and pan-frying. Its texture is chewy and it absorbs flavors from sauces and broths.
 
 ## Common Uses
-- Stir-fried dishes (e.g., Dubu-bokkeum)
-- Stews and soups (e.g., Kimchi-jjigae, Sundubu-jjigae)
+- Stir-fried dishes
+- Stews and soups
 - Grilled or pan-fried as a side dish
 - Added to salads or braised dishes
 

@@ -1,16 +1,16 @@
 - **Name**: Golden raisins
-- **Other Names**: 황금 건포도
-- **Type**: Dried fruit
+- **Other Names**: 건포도
+- **Type**: Dried Fruit
 
 ## Description
 
-Golden raisins are sweet, chewy dried grapes with a light color and tangy flavor. They are used in Korean rice dishes, desserts, and as a snack.
+Golden raisins are dried, seedless grapes with a sweet, tangy flavor and chewy texture. They are commonly used in baking, salads, and as a snack.
 
 ## How to use
 
-- Added to rice blends and desserts
+- Added to baked goods
+- Used in salads and pilafs
 - Eaten as a snack
-- Used in baked goods
 
 ## Substitutions
 

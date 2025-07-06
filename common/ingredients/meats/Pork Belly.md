@@ -1,4 +1,4 @@
-- **Name**: Pork belly (Samgyeopsal)
+- **Name**: Pork belly
 - **Other Names**: 삼겹살
 - **Type**: Meat / Pork
 

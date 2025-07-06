@@ -1,16 +1,16 @@
-- **Name**: Pumpkin seeds (Hobakssi)
+- **Name**: Pumpkin seeds
 - **Other Names**: 호박씨
 - **Type**: Seed / Nut
 
 ## Description
 
-Pumpkin seeds are flat, green seeds with a mild, nutty flavor. They are used in Korean cuisine for snacks, garnishes, and in rice dishes.
+Pumpkin seeds are flat, oval seeds with a mild, nutty flavor. They are commonly eaten as a snack, used in baking, or added to salads and granola.
 
 ## How to use
 
-- Sprinkled on rice and salads
 - Eaten as a snack
-- Used in baked goods
+- Added to salads, granola, or baked goods
+- Used as a garnish for soups and stews
 
 ## Substitutions
 

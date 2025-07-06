@@ -1,10 +1,10 @@
-- **Name**: Sweet potatoes (Goguma)
+- **Name**: Sweet potatoes
 - **Other Names**: 고구마
 - **Type**: Vegetable / Root
 
 ## Description
 
-Sweet potatoes are starchy, sweet root vegetables with orange or purple flesh. They are used in Korean cuisine for roasting, steaming, and as an ingredient in desserts and snacks.
+Sweet potatoes are starchy, sweet root vegetables with orange or purple flesh. They are commonly roasted, steamed, or used as an ingredient in desserts and snacks.
 
 ## How to use
 

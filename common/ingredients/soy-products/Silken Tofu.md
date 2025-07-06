@@ -5,10 +5,10 @@
 ---
 
 ## Description
-Silken tofu is a soft, custard-like tofu made from coagulated soy milk with minimal pressing. It has a delicate, smooth texture and high water content, making it ideal for soups, stews, and cold dishes in Korean cuisine.
+Silken tofu is a soft, custard-like tofu made from coagulated soy milk with minimal pressing. It has a delicate, smooth texture and high water content, making it ideal for soups, stews, and cold dishes.
 
 ## Common Uses
-- Soft tofu stew (Sundubu-jjigae)
+- Soft tofu stew
 - Cold tofu dishes (e.g., chilled silken tofu with soy sauce)
 - Added to soups for a silky texture
 - Used in desserts or smoothies

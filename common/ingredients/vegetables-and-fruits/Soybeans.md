@@ -1,10 +1,10 @@
-- **Name**: Soybeans (Mejukong)
+- **Name**: Soybeans
 - **Other Names**: 메주콩
 - **Type**: Legume
 
 ## Description
 
-Soybeans are small, round legumes used extensively in Korean cuisine for their protein content and versatility. They are the base for tofu, soy milk, and fermented products.
+Soybeans are small, round legumes valued for their protein content and versatility. They are the base for tofu, soy milk, and fermented products.
 
 ## How to use
 

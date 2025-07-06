@@ -4,7 +4,7 @@
 
 ## Description
 
-Oyster sauce is a thick, dark, and savory sauce made from oyster extracts, sugar, salt, and sometimes soy sauce. It is widely used in East Asian cuisines, including Korean-Chinese dishes, to add umami, sweetness, and a glossy finish to stir-fries and sauces.
+Oyster sauce is a thick, dark, and savory sauce made from oyster extracts, sugar, salt, and sometimes soy sauce. It is widely used in East Asian cooking to add umami, sweetness, and a glossy finish to stir-fries and sauces.
 
 ## How to use
 

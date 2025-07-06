@@ -4,11 +4,11 @@
 
 ## Description
 
-Butternut squash is a sweet, nutty winter squash with orange flesh. It is used in Korean cuisine for soups, porridges, and steamed dishes.
+Butternut squash is a sweet, nutty winter squash with orange flesh. It is commonly used in soups, porridges, and steamed dishes.
 
 ## How to use
 
-- Used in porridges (hobakjuk)
+- Used in porridges
 - Added to soups and stews
 - Steamed or roasted as a side dish
 

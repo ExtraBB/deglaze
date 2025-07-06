@@ -1,10 +1,10 @@
-- **Name**: Black sesame seeds (Heukimja)
+- **Name**: Black sesame seeds
 - **Other Names**: 흑임자
 - **Type**: Seed / Nut
 
 ## Description
 
-Black sesame seeds are small, dark seeds with a rich, nutty flavor. They are used in Korean cuisine for their aroma, taste, and as a garnish.
+Black sesame seeds are small, dark seeds with a rich, nutty flavor. They are valued for their aroma, taste, and as a garnish.
 
 ## How to use
 

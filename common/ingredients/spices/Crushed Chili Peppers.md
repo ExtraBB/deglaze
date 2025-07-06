@@ -4,7 +4,7 @@
 
 ## Description
 
-Crushed chili peppers are dried and coarsely ground red peppers, used in Korean cuisine for their heat and vibrant color. They add a spicy kick to dishes.
+Crushed chili peppers are dried and coarsely ground red peppers, valued for their heat and vibrant color. They add a spicy kick to dishes.
 
 ## How to use
 

@@ -1,10 +1,10 @@
 - **Name**: Sugar
 - **Other Names**: Sucrose
-- **Type**: Other
+- **Type**: Sweetener
 
 ## Description
 
-Sugar is a sweet, crystalline substance derived primarily from sugar cane and sugar beets. It is composed mainly of sucrose and is widely used as a sweetener in foods and beverages. Sugar comes in various forms, including granulated, powdered, brown, and raw, each with distinct textures and flavors. It not only provides sweetness but also affects the texture, color, and preservation of foods.
+Sugar is a sweet, crystalline substance derived primarily from sugarcane or sugar beets. It is composed mainly of sucrose and is widely used as a sweetener in foods and beverages. Sugar comes in various forms, including granulated, powdered, brown, and raw, each with distinct textures and flavors. It not only provides sweetness but also affects the texture, color, and preservation of foods.
 
 ## How to use
 

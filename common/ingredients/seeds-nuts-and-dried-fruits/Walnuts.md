@@ -4,7 +4,7 @@
 
 ## Description
 
-Walnuts are round, wrinkled nuts with a rich, slightly bitter flavor. They are used in Korean cuisine for snacks, desserts, and as a garnish.
+Walnuts are round, wrinkled nuts with a rich, slightly bitter flavor. They are commonly used for snacks, desserts, and as a garnish.
 
 ## How to use
 

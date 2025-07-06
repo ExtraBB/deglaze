@@ -1,15 +1,15 @@
-- **Name**: Canned saury (Kkongchi tongjorim)
+- **Name**: Canned saury
 - **Other Names**: 꽁치통조림
 - **Type**: Seafood / Fish / Canned
 
 ## Description
 
-Canned saury is preserved saury fish, used in Korean stews and braises for its savory flavor and convenience.
+Canned saury is preserved saury fish, valued for its savory flavor and convenience. It is used in stews and braises.
 
 ## How to use
 
-- Added to kimchi jjigae (kimchi stew)
-- Used in braised dishes (jorim)
+- Added to stews
+- Used in braised dishes
 - Mixed into rice or noodles
 
 ## Substitutions

@@ -1,4 +1,4 @@
-- **Name**: Wasabi powder (Gochu-naengee)
+- **Name**: Wasabi powder
 - **Other Names**: 고추냉이 가루
 - **Type**: Spice
 

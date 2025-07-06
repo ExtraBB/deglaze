@@ -1,16 +1,16 @@
-- **Name**: Clams (Jogae)
+- **Name**: Clams
 - **Other Names**: 조개
 - **Type**: Seafood / Mollusk
 
 ## Description
 
-Clams are bivalve mollusks with a sweet, briny flavor and tender texture. They are used in Korean soups, stews, and seafood pancakes.
+Clams are bivalve mollusks with a sweet, briny flavor and tender texture. They are commonly used in soups, stews, and seafood pancakes.
 
 ## How to use
 
-- Added to soups (jogae-guk)
+- Added to soups
 - Used in stews and hot pots
-- Included in seafood pancakes (haemul-jeon)
+- Included in seafood pancakes
 
 ## Substitutions
 

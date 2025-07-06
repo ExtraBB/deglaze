@@ -1,15 +1,15 @@
-- **Name**: Beltfish (Galchi)
+- **Name**: Beltfish
 - **Other Names**: 갈치
 - **Type**: Seafood / Fish
 
 ## Description
 
-Beltfish is a long, silver fish with a mild, delicate flavor and tender flesh. It is popular in Korean cuisine for grilling, braising, and stewing.
+Beltfish is a long, silver fish with a mild, delicate flavor and tender flesh. It is popular for grilling, braising, and stewing.
 
 ## How to use
 
-- Grilled or broiled (galchi-gui)
-- Braised in spicy sauce (galchi-jorim)
+- Grilled or broiled
+- Braised in spicy sauce
 - Added to stews and soups
 
 ## Substitutions

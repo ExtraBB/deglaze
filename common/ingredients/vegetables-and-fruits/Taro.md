@@ -1,14 +1,14 @@
-- **Name**: Taro (Toran)
+- **Name**: Taro
 - **Other Names**: 토란
 - **Type**: Vegetable / Root
 
 ## Description
 
-Taro is a starchy root vegetable with a mild, nutty flavor and a slightly sticky texture when cooked. It is used in Korean cuisine for soups, stews, and side dishes.
+Taro is a starchy root vegetable with a mild, nutty flavor and a slightly sticky texture when cooked. It is commonly used in soups, stews, and side dishes.
 
 ## How to use
 
-- Added to soups and stews (toran-guk)
+- Added to soups and stews
 - Steamed or boiled as a side dish
 - Used in rice blends
 
