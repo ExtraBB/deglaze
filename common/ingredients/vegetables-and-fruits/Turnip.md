@@ -1,5 +1,5 @@
 - **Name**: Turnip
-- **Other Names**: 순무
+- **Other Names**: Sunmu (순무)
 - **Type**: Vegetable / Root
 
 ## Description

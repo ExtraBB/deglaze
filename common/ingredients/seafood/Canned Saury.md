@@ -1,5 +1,5 @@
 - **Name**: Canned saury
-- **Other Names**: 꽁치통조림
+- **Other Names**: Kkongchi-tongjorim (꽁치통조림)
 - **Type**: Seafood / Fish / Canned
 
 ## Description

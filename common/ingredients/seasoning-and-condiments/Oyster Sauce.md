@@ -1,5 +1,5 @@
 - **Name**: Oyster sauce
-- **Other Names**: 굴소스
+- **Other Names**: Gul-sos (굴소스)
 - **Type**: Condiment
 
 ## Description

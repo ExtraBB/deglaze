@@ -1,5 +1,5 @@
 - **Name**: Beef short ribs
-- **Other Names**: 소갈비
+- **Other Names**: Sogalbi (소갈비)
 - **Type**: Meat / Beef
 
 ## Description

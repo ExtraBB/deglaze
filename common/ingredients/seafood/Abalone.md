@@ -1,5 +1,5 @@
 - **Name**: Abalone
-- **Other Names**: 전복
+- **Other Names**: Jeonbok (전복)
 - **Type**: Seafood / Mollusk
 
 ## Description

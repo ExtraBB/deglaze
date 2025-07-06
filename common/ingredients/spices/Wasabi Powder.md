@@ -1,5 +1,5 @@
 - **Name**: Wasabi powder
-- **Other Names**: 고추냉이 가루
+- **Other Names**: Gochu-nang-i garu (고추냉이 가루)
 - **Type**: Spice
 
 ## Description

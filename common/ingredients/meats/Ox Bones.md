@@ -1,5 +1,5 @@
 - **Name**: Ox bones
-- **Other Names**: 소뼈
+- **Other Names**: Sogol (소골)
 - **Type**: Bone / Beef
 
 ## Description

@@ -1,5 +1,5 @@
 - **Name**: Frozen tuna
-- **Other Names**: 냉동참치
+- **Other Names**: Nangdong-chamchi (냉동참치)
 - **Type**: Seafood / Fish / Frozen
 
 ## Description

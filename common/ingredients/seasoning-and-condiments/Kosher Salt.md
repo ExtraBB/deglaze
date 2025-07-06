@@ -1,5 +1,5 @@
 - **Name**: Kosher salt
-- **Other Names**: 코셔 소금
+- **Other Names**: Kosheo Sogeum (코셔 소금)
 - **Type**: Seasoning
 
 ## Description

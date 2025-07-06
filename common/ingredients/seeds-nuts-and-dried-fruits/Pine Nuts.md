@@ -1,5 +1,5 @@
 - **Name**: Pine nuts
-- **Other Names**: 잣
+- **Other Names**: Jat (잣)
 - **Type**: Seed / Nut
 
 ## Description

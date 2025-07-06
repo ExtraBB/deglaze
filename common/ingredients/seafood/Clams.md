@@ -1,5 +1,5 @@
 - **Name**: Clams
-- **Other Names**: 조개
+- **Other Names**: Jogae (조개)
 - **Type**: Seafood / Mollusk
 
 ## Description

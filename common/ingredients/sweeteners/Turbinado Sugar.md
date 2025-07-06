@@ -1,5 +1,5 @@
 - **Name**: Turbinado sugar
-- **Other Names**: 터비나도 설탕
+- **Other Names**: Teobinadeo seoltang (터비나도 설탕)
 - **Type**: Sweetener
 
 ## Description

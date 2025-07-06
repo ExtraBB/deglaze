@@ -1,5 +1,5 @@
 - **Name**: Canned chestnuts
-- **Other Names**: 통조림 밤
+- **Other Names**: Tongjorim bam (통조림 밤)
 - **Type**: Nut / Canned
 
 ## Description

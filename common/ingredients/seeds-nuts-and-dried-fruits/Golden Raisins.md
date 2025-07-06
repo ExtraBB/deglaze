@@ -1,5 +1,5 @@
 - **Name**: Golden raisins
-- **Other Names**: 건포도
+- **Other Names**: Geonpodu (건포도)
 - **Type**: Dried Fruit
 
 ## Description

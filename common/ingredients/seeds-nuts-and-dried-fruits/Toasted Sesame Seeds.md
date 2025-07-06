@@ -1,5 +1,5 @@
 - **Name**: Toasted sesame seeds
-- **Other Names**: 볶은깨
+- **Other Names**: Bokkeun-kkae (볶은깨)
 - **Type**: Seed / Nut
 
 ## Description

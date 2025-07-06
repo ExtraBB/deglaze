@@ -1,5 +1,5 @@
 - **Name**: Sweet potatoes
-- **Other Names**: 고구마
+- **Other Names**: Goguma (고구마)
 - **Type**: Vegetable / Root
 
 ## Description

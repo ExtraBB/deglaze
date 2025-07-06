@@ -1,5 +1,5 @@
 - **Name**: Soybeans
-- **Other Names**: 메주콩
+- **Other Names**: Meju-kong (메주콩)
 - **Type**: Legume
 
 ## Description

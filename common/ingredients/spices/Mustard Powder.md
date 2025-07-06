@@ -1,5 +1,5 @@
 - **Name**: Mustard powder
-- **Other Names**: 겨자가루
+- **Other Names**: Gyeoja-garu (겨자가루)
 - **Type**: Spice
 
 ## Description

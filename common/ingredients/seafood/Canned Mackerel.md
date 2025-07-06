@@ -1,5 +1,5 @@
 - **Name**: Canned mackerel
-- **Other Names**: 고등어통조림
+- **Other Names**: Godungeo-tongjorim (고등어통조림)
 - **Type**: Seafood / Fish / Canned
 
 ## Description

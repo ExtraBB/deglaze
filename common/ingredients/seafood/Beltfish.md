@@ -1,5 +1,5 @@
 - **Name**: Beltfish
-- **Other Names**: 갈치
+- **Other Names**: Galchi (갈치)
 - **Type**: Seafood / Fish
 
 ## Description

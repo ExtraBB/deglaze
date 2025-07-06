@@ -1,5 +1,5 @@
 - **Name**: Eggplant
-- **Other Names**: 가지
+- **Other Names**: Gaji (가지)
 - **Type**: Vegetable
 
 ## Description

@@ -1,5 +1,5 @@
 - **Name**: Black sesame seeds
-- **Other Names**: 흑임자
+- **Other Names**: Heukimja (흑임자)
 - **Type**: Seed / Nut
 
 ## Description

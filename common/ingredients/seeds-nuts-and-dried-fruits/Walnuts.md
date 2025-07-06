@@ -1,5 +1,5 @@
 - **Name**: Walnuts
-- **Other Names**: 호두
+- **Other Names**: Hodu (호두)
 - **Type**: Nut
 
 ## Description

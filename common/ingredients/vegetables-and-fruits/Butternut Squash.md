@@ -1,5 +1,5 @@
 - **Name**: Butternut squash
-- **Other Names**: 버터넛 스쿼시
+- **Other Names**: Beoteonat Seukwosi (버터넛 스쿼시)
 - **Type**: Vegetable
 
 ## Description

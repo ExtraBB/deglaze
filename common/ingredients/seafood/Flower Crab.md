@@ -1,5 +1,5 @@
 - **Name**: Flower crab
-- **Other Names**: 꽃게
+- **Other Names**: Kkotge (꽃게)
 - **Type**: Seafood / Crab
 
 ## Description

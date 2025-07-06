@@ -1,5 +1,5 @@
 - **Name**: Crushed chili peppers
-- **Other Names**: 고추조각
+- **Other Names**: Gochu-jogak (고추조각)
 - **Type**: Spice
 
 ## Description

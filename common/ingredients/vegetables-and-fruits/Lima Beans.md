@@ -1,5 +1,5 @@
 - **Name**: Lima beans
-- **Other Names**: 리마콩
+- **Other Names**: Lima-kong (리마콩)
 - **Type**: Legume
 
 ## Description

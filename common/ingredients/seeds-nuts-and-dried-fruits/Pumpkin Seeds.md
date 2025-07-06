@@ -1,5 +1,5 @@
 - **Name**: Pumpkin seeds
-- **Other Names**: 호박씨
+- **Other Names**: Hobak-ssi (호박씨)
 - **Type**: Seed / Nut
 
 ## Description

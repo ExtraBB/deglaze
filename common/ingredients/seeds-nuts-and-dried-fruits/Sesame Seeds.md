@@ -1,5 +1,5 @@
 - **Name**: Raw sesame seeds
-- **Other Names**: 참깨
+- **Other Names**: Chamkkae (참깨)
 - **Type**: Seed / Nut
 
 ## Description

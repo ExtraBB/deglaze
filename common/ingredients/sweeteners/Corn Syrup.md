@@ -1,5 +1,5 @@
 - **Name**: Corn syrup
-- **Other Names**: 물엿
+- **Other Names**: Mul-yeot (물엿)
 - **Type**: Sweetener / Syrup
 
 ## Description

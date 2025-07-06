@@ -1,5 +1,5 @@
 - **Name**: Frozen oysters
-- **Other Names**: 냉동굴
+- **Other Names**: Nangdong-gul (냉동굴)
 - **Type**: Seafood / Mollusk / Frozen
 
 ## Description

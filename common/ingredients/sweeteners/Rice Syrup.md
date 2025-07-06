@@ -1,5 +1,5 @@
 - **Name**: Rice syrup
-- **Other Names**: 쌀조청
+- **Other Names**: Ssaldangchoeng (쌀조청)
 - **Type**: Sweetener / Syrup
 
 ## Description

@@ -1,5 +1,5 @@
 - **Name**: Artificial crab meat
-- **Other Names**: 게맛살
+- **Other Names**: Gaemapsal (게맛살)
 - **Type**: Seafood / Processed
 
 ## Description

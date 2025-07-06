@@ -1,5 +1,5 @@
 - **Name**: Taro
-- **Other Names**: 토란
+- **Other Names**: Taro (토란)
 - **Type**: Vegetable / Root
 
 ## Description
